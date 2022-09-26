@@ -1,0 +1,15 @@
+C:\Source\HarScraper\HarScraper\bin\Debug\net6.0\HarScraper.exe
+C:\Source\HarScraper\HarScraper\bin\Debug\net6.0\HarScraper.deps.json
+C:\Source\HarScraper\HarScraper\bin\Debug\net6.0\HarScraper.runtimeconfig.json
+C:\Source\HarScraper\HarScraper\bin\Debug\net6.0\HarScraper.dll
+C:\Source\HarScraper\HarScraper\bin\Debug\net6.0\HarScraper.pdb
+C:\Source\HarScraper\HarScraper\obj\Debug\net6.0\HarScraper.csproj.AssemblyReference.cache
+C:\Source\HarScraper\HarScraper\obj\Debug\net6.0\HarScraper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\HarScraper\HarScraper\obj\Debug\net6.0\HarScraper.AssemblyInfoInputs.cache
+C:\Source\HarScraper\HarScraper\obj\Debug\net6.0\HarScraper.AssemblyInfo.cs
+C:\Source\HarScraper\HarScraper\obj\Debug\net6.0\HarScraper.csproj.CoreCompileInputs.cache
+C:\Source\HarScraper\HarScraper\obj\Debug\net6.0\HarScraper.dll
+C:\Source\HarScraper\HarScraper\obj\Debug\net6.0\refint\HarScraper.dll
+C:\Source\HarScraper\HarScraper\obj\Debug\net6.0\HarScraper.pdb
+C:\Source\HarScraper\HarScraper\obj\Debug\net6.0\HarScraper.genruntimeconfig.cache
+C:\Source\HarScraper\HarScraper\obj\Debug\net6.0\ref\HarScraper.dll

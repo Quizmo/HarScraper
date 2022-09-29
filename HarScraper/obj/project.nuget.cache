@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "OCt8CLkx3S+8r0ciL5EakkDjQcgxfb7o14KyfmC/AuPjOxwnuRrsaObM1NHAQGe4r8hPdKc5e/Smv8IDyOF6aQ==",
+  "dgSpecHash": "2aItE5O+uCpfZvhmbAQXOmBT/4NjeOGcu5Z3apQhxpcJ3RYycKC2nw6lqtCPkQ/hwSzGRt3usSulddlsacy7bA==",
   "success": true,
   "projectFilePath": "C:\\Source\\HarScraper\\HarScraper\\HarScraper.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Quizmo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\Quizmo\\.nuget\\packages\\microsoft.playwright\\1.26.0\\microsoft.playwright.1.26.0.nupkg.sha512",
+    "C:\\Users\\Quizmo\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\Quizmo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Quizmo\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\Quizmo\\.nuget\\packages\\system.text.json\\6.0.5\\system.text.json.6.0.5.nupkg.sha512"
+  ],
   "logs": []
 }
